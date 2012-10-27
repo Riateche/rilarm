@@ -1,0 +1,8 @@
+debian
+obj
+moc
+*.pro.user
+*.changes
+*.deb
+/rilarm
+/Makefile
