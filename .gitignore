@@ -4,5 +4,6 @@ moc
 *.pro.user
 *.changes
 *.deb
-/rilarm
-/Makefile
+Makefile
+/rilarm/rilarm
+/rilarmd/rilarmd
